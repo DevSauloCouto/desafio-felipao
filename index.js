@@ -11,7 +11,7 @@ function xpHero({hero, xp}) {
     if(XP > 2000 && XP < 5001) {
         level = "Prata"
     }
-    if(XP > 6000 && XP < 7001) {
+    if(XP > 5000 && XP < 7001) {
         level = "Ouro"
     }
     if(XP > 7000 && XP < 8001) {
@@ -36,7 +36,7 @@ const hero2 = {
 }
 const hero3 = {
     hero: "Dj",
-    xp: 6440
+    xp: 5425
 }
 const hero4 = {
     hero: "LightRobot",
