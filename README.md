@@ -20,6 +20,8 @@ O Herói de nome LightRobot está no nível de Ouro
 O Herói de nome Dragon está no nível de Prata
 -------------------------------------
 
+
+
 # Calculadora de Partidas Rankeadas
 
 
