@@ -46,3 +46,34 @@
 <hr style="background-color: #29b3b3; border: none">
 <p style="font-family: 'Inter', sans-serif;">O Herói tem um saldo de 30 e está no nível Prata</p>
 </details>
+<hr>
+
+<h1 style="padding: 10px; border-radius: 10px 0; color: #fff; background-color: #29B3B3">Classes de um Jogo</h1>
+
+<p style="color: #29b3b3; background-color: #fff; font-size: 15px; padding: 10px; border-radius: 10px; font-family: sans-serif">Esse desafio proposto pelo Felipão consiste em escrever uma classe que representa um herói e possua as seguintes propriedades:</p>
+<p style="color: #29b3b3; background-color: #fff; font-size: 15px; padding: 10px; border-radius: 10px; font-family: sans-serif"><strong>Nome</strong></p>
+<p style="color: #29b3b3; background-color: #fff; font-size: 15px; padding: 10px; border-radius: 10px; font-family: sans-serif"><strong>Idade</strong></p>
+<p style="color: #29b3b3; background-color: #fff; font-size: 15px; padding: 10px; border-radius: 10px; font-family: sans-serif"><strong>Tipo</strong> ex: (guerreiro, monge, ninja)</p>
+<p style="color: #29b3b3; background-color: #fff; font-size: 15px; padding: 10px; border-radius: 10px; font-family: sans-serif">Ele propõe criarmos um método 'atacar' que irá mostrar como saída do programas a mensagem "O {tipo} atacou usando o {ataque}".</p>
+<p style="color: #29b3b3; background-color: #fff; font-size: 15px; padding: 10px; border-radius: 10px; font-family: sans-serif">Criei a classe com todas as propriedades e o método atacar e também para me divertir mais, criei outros métodos bem legais como o de missões que retorna um JSON contendo as
+missões e o status delas. Criei um método de caminhar que avalia a posição do herói em X e Y e fiz este método por conta de uma das missões que definir que o herói tinha que coletar
+uma porção mágica que está em tal coordenada. Depois criei um método que completa as missões e retorna a saída de quais missões foram completadas e qual o nível que o herói alcançou.</p>
+
+<details style="background-color: #fff; color: #29b3b3; padding: 10px; border-radius: 10px"> 
+<summary style="font-size: 15px; font-family: sans-serif">EXEMPLOS:</summary>
+<hr style="background-color: #29b3b3; border: none">
+<p style="font-family: 'Inter', sans-serif;">O monge Saulo atacou usando artes marciais<br>
+O herói Saulo completou as missões:<br>
+- Destrua 10 inimigos<br>
+- Colete uma porção mágica no vale<br>
+- Faça uma espada de diamante<br>
+Subiu para o nível 2</p>
+<hr style="background-color: #29b3b3; border: none">
+<p style="font-family: 'Inter', sans-serif;">O ninja Nevek atacou usando shuriken<br>
+O herói Nevek completou as missões:<br>
+- Destrua 10 inimigos<br>
+- Colete uma porção mágica no vale<br>
+- Faça uma espada de diamante<br>
+Subiu para o nível 2</p>
+<hr style="background-color: #29b3b3; border: none">
+</details>
